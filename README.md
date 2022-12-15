@@ -1,6 +1,4 @@
-### Hi I'm f5l5y5 👋
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=f5l5y5.f5l5y5" alt="visitor badge" />
+### Hi I'm f5l5y5 👋<img src="https://visitor-badge.glitch.me/badge?page_id=f5l5y5.f5l5y5" alt="visitor badge" />
 
 <!--
 **f5l5y5/f5l5y5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
