@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![](https://github-readme-stats.vercel.app/api?username=f5l5y5&show_icons=true?theme=radical)
+-->
 <!--
 https://metrics.lecoq.io/
 https://gist.github.com/rxaviers/7360908
